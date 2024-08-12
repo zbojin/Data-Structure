@@ -10,4 +10,5 @@
 - Monotone Queue
 - Sparse Table
 - ...
+  
 To be continued.
